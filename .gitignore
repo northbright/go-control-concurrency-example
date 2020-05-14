@@ -1,0 +1,21 @@
+# Ignore all
+*
+# Unignore all sub dirs
+!*/
+!.gitignore
+!LICENSE
+!*.md
+!*.go
+!go.mod
+!go.sum
+!*.json
+!.travis.yml
+!*.pem
+config.json
+# For HTML
+!*.html
+!*.js
+!*.css
+!*.jpg
+!*.png
+!*.gif
